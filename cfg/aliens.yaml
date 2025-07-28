@@ -1,0 +1,36 @@
+dataroot: /root/onethingai-tmp/Mesh/coseg_aliens-1024
+mode: 'test'
+augment_scale: True
+augment_orient: False 
+augment_deformation: False 
+name: aliens_finetune_meshmamba3D
+checkpoint: 'Tele-aliens.pkl'
+
+model : {
+  trans_dim: 384,
+  depth: 12,
+  drop_path_rate: 0.2,
+  cls_dim: 4,
+  num_heads: 6,
+  group_size: 32,
+  num_group: 256,
+  encoder_dims: 384,
+  bimamba_type: "v4",
+  center_local_k: [4, 8, 16],
+  ordering: False,
+}
+
+train : {
+  lr: 0.001, 
+  lr_min: 0.00001,
+  weight_decay: 0.05,  
+  optim: 'adamw',
+  gamma: 0.1,
+  batch_size: 2,
+  n_epoch: 100,
+  max_epoch: 300,
+  n_worker: 8,
+  lr_milestones: 'none',
+  num_warmup_steps: '2',
+  seed: null,
+}

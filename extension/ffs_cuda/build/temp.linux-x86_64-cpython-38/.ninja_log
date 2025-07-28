@@ -1,0 +1,4 @@
+# ninja log v5
+1	110212	1745912431755180247	/root/onethingai-tmp/MeshMamba3D/extension/ffs_cuda/build/temp.linux-x86_64-cpython-38/fps_cuda_kernel.o	ab482524addd3306
+1	43934	1745912537722648167	/root/onethingai-tmp/MeshMamba3D/extension/ffs_cuda/build/temp.linux-x86_64-cpython-38/fps_cuda.o	3374acc7f1e4f8a
+28	112925	1745912901118833954	/root/onethingai-tmp/MeshMamba3D/extension/ffs_cuda/build/temp.linux-x86_64-cpython-38/fps_cuda_kernel.o	ab482524addd3306
