@@ -34,8 +34,8 @@ Here, we provide the download links of the datasets for pre-train, classificatio
 | Classification | SHREC11-Split10 | 99.00% | [ckpt](https://drive.google.com/file/d/1BTAM4JvPqJJOziii4LsvO47ysA_FibDx/view?usp=drive_link) |
 | Classification | SHREC11-Split16 | 100.00% | [ckpt](https://drive.google.com/file/d/1OuPiEyOWAApNxiOQDRVwNLd8WvP10yRw/view?usp=drive_link) |
 | Segmentation | COSEG-Tele-aliens | 91.42% | [ckpt](https://drive.google.com/file/d/1VW2Hcu45pWt2dZEw9tu4YQso9nFqUKKQ/view?usp=drive_link) |
-| Segmentation | COSEG-Chairs | 95.49% | [ckpt](https://drive.google.com/file/d/1CGfEozfPQGL0K3XDqWgjdkZBQ670YGsd/view?usp=drive_link) |
-| Segmentation | COSEG-Vases | 90.08% | [ckpt](https://drive.google.com/file/d/1vGKsk2YCfR1Hk4QRlZrD-yS-mTQQXjZO/view?usp=drive_link) |
+| Segmentation | COSEG-Chairs | 95.96% | [ckpt](https://drive.google.com/file/d/1CGfEozfPQGL0K3XDqWgjdkZBQ670YGsd/view?usp=drive_link) |
+| Segmentation | COSEG-Vases | 92.62% | [ckpt](https://drive.google.com/file/d/1vGKsk2YCfR1Hk4QRlZrD-yS-mTQQXjZO/view?usp=drive_link) |
 
 ## Requirements
 Tested on:
