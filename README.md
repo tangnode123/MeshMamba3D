@@ -1,7 +1,7 @@
 # MeshMamba3D: A State-Space Model Enabling Meshes to be Learned like Point Clouds
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://arxiv.org/abs/2305.14314" style="margin: 0 2px;">
+  <a href="[https://arxiv.org/abs/2305.14314](https://ssrn.com/abstract=5758818)" style="margin: 0 2px;">
     <img src='https://img.shields.io/badge/arXiv-2411.10499-red?style=flat&logo=arXiv&logoColor=red' alt='arxiv'>
   </a>
   <a href='https://github.com/tangnode123/MeshMamba3D' style="margin: 0 2px;">
